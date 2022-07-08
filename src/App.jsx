@@ -1,8 +1,11 @@
+import Deliveries from "./components/Deliveries"
+import Table from "./components/Table"
+
 function App() {
 
   return (
     <div>
-      Hello World!
+      <Deliveries />
     </div>
   )
 }
